@@ -44,6 +44,7 @@ export default function Home({ allPostsData }) {
           ))}
         </ul>
       </section>
+      <p>This is a change I have made to this landing page!</p>
     </Layout>
   );
 }
